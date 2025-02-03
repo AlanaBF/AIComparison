@@ -1,0 +1,30 @@
+# .NET Core
+bin/
+obj/
+*.user
+*.userosscache
+*.sln.docstates
+
+# Angular
+node_modules/
+dist/
+.angular/
+.sass-cache/
+npm-debug.log
+
+# IDE - VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Environment files
+appsettings.Development.json
+appsettings.Production.json
+.env
+*.local.json
+
+# Misc
+.DS_Store
+Thumbs.db
