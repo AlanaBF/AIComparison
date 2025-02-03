@@ -47,6 +47,12 @@ cd AIComparison
 3. Follow the setup instructions in each project's README:
    - [Text Simplification Setup](./Windsurf/TextSimplification/README.md)
 
+### Working with Configuration Files
+- Each project has a `appsettings.template.json` showing the required configuration
+- Copy the template to `appsettings.json` and add your API keys
+- The `.gitignore` file ensures your API keys stay private
+- You only need to set up the configuration once; Git will ignore your local settings
+
 ## Contributing
 This repository is for comparing different AI development tools and approaches. Each project should:
 - Have clear documentation
