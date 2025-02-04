@@ -41,7 +41,7 @@ A sophisticated text simplification tool that adapts complex text for different 
 
 ## Demo
 
-[Demo Video](./assets/demo.mp4)
+[Demo Video](./assets/demo.gif)
 
 ## Repository Structure
 
