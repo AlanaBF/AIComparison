@@ -41,10 +41,7 @@ A sophisticated text simplification tool that adapts complex text for different 
 
 ## Demo
 
-<video autoplay loop muted playsinline width="640">
-  <source src="assets/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag. <a href="assets/demo.mp4">Download video</a>
-</video>
+[Demo Video](./assets/demo.mp4)
 
 ## Repository Structure
 
